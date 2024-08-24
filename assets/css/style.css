@@ -33,3 +33,18 @@ nav h1 {
 width: 100%;
 height: 200px;
 }
+
+.About-Me{
+  font-size: 30px;
+}
+
+.Work{
+  font-size: 30px;
+}
+
+.Contact-Me{
+  font-size: 30px;
+}
+li{
+  display: inline;
+}
